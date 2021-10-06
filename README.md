@@ -1,5 +1,5 @@
 # datascience-ybettayeb
-Classifieur de spam, crée dans le cadre du test technique chez Owlint. 
+Classifieur de spam
 
 Le cahier des charges complet se trouve dans le dépot. 
 Le classeur .ipynb qui détaille mon raisonnement et cheminement se trouve dans le dépot.
